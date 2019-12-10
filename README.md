@@ -6,7 +6,7 @@ Imperium Galactica 2 matchmaking server
 ## What is that?
 This is a **Docker wrapper** for an **IG2 Matchmaking server hub**.
 
-Imperium Galactica 2 is a strategy game from 1999.
+Imperium Galactica II is a strategy game from 1999.
 [[Wikipedia]](https://en.wikipedia.org/wiki/Imperium_Galactica_II:_Alliances)
 
 The old client just couldn't run in the new systems.
